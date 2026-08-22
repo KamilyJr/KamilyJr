@@ -116,6 +116,14 @@ Every repository is another step forward. 🚀
   </a>
 </p>
 
+## 🐍 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KamilyJr/KamilyJr/main/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KamilyJr/KamilyJr/main/dist/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/KamilyJr/KamilyJr/main/dist/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 
